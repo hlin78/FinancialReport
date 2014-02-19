@@ -23,7 +23,8 @@ public class MainActivity extends Activity {
 			
 			@Override
 			public void onClick(View v) {
-				
+				Intent registerPage = new Intent("com.example.financialreport.REGISTER");
+				startActivity(registerPage);
 				
 			}
 		});

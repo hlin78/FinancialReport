@@ -10,4 +10,6 @@
 	<string name="password">Password</string>
     <string name="welcome_screen">Welcome</string>
     <string name="login_note"></string>
+    <string name="required">Required</string>
+    <string name="limitation">A-Z  a-z  0-9  @  _  .</string>
 </resources>
